@@ -1,13 +1,17 @@
-## Review Papers for 3D Generation 
+# Review Papers for 3D Generation 
 
 
-## huggingface demo space
+### huggingface demo space
+---
  - [OpenLRM](https://huggingface.co/spaces/zxhezexin/OpenLRM)
  - []()
  - []() 
 
 
 
+---------
+### Papers and Models
+--------
 | Model Name | Code | Paper | Conferences
 |---------|--------|-------------|-------------|
 | Pix2Pix | [github-Pix2Pix3d](https://github.com/dunbar12138/pix2pix3D) | [paper](https://arxiv.org/abs/2302.08509) | CVPR 2023 | 
@@ -21,3 +25,7 @@
 |StableFasr3D| [github-StableFast3D](https://github.com/Stability-AI/stable-fast-3d) |[paper](https://arxiv.org/abs/2408.00653)| ----- | 
 |DreamCraft3D| [github-DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)|[paper](https://arxiv.org/abs/2310.16818)| ECCV 2024
 |Hyperfields| [github-Hyperfields](https://github.com/threedle/hyperfields)|[paper](http://arxiv.org/abs/2310.17075)| ICML 2024
+|Hunyuan3D-1| [github-Hunyuan3D-1](https://github.com/tencent/Hunyuan3D-1)|[paper](https://arxiv.org/pdf/2411.02293)| Tancent 2024
+|Hyperfields| [github-Hyperfields](https://github.com/threedle/hyperfields)|[paper](http://arxiv.org/abs/2310.17075)| ICML 2024
+|Hyperfields| [github-Hyperfields](https://github.com/threedle/hyperfields)|[paper](http://arxiv.org/abs/2310.17075)| ICML 2024
+-----
