@@ -4,7 +4,7 @@
 ### huggingface demo space
 ---
  - [OpenLRM](https://huggingface.co/spaces/zxhezexin/OpenLRM)
- - []()
+ - [TRELLIS](https://huggingface.co/spaces/JeffreyXiang/TRELLIS)
  - []() 
 
 
