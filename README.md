@@ -27,6 +27,6 @@
 |DreamCraft3D| [github-DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)|[paper](https://arxiv.org/abs/2310.16818)| ECCV 2024
 |Hyperfields| [github-Hyperfields](https://github.com/threedle/hyperfields)|[paper](http://arxiv.org/abs/2310.17075)| ICML 2024
 |Hunyuan3D-1| [github-Hunyuan3D-1](https://github.com/tencent/Hunyuan3D-1)|[paper](https://arxiv.org/pdf/2411.02293)| Tancent 2024
-
+|TRELLIS| [github-TRELLIS](https://github.com/Microsoft/TRELLIS)|[paper](https://arxiv.org/abs/2412.01506)| Microsoft 2024
 
 -----
