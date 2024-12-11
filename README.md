@@ -30,3 +30,11 @@
 |TRELLIS| [github-TRELLIS](https://github.com/Microsoft/TRELLIS)|[paper](https://arxiv.org/abs/2412.01506)| Microsoft 2024
 
 -----
+
+
+
+<p align="center">
+  <a href="https://star-history.com/#A7medM0sta/text-2D-to-3D&Date">
+    <img src="https://api.star-history.com/svg?repos=A7medM0sta/text-2D-to-3D&type=Date" alt="Star History Chart">
+  </a>
+</p>
